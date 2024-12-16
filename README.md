@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Emara</h1>
-<h3 align="center">Junior Flutter Developer</h3>
+<h3 align="center">Flutter Developer</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedemara231" alt="ahmedemara231" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
